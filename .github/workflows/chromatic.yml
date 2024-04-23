@@ -23,5 +23,5 @@ jobs:
           projectToken: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
           token: ${{ secrets.GITHUB_TOKEN }}
 
-# projectToken: ${{ chpt_4ebd1141bc31c54 }}
-# token: ${{ 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 }} 
+# chpt_4ebd1141bc31c54
+# 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
